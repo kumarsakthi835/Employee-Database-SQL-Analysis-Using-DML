@@ -319,10 +319,20 @@ Screenshots/
 <img width="881" height="182" alt="image" src="https://github.com/user-attachments/assets/5fa4e93f-994b-4106-8afa-9e99414feed2" />
 
 
+
+
+
+
 ├── Alias_AS_Age_Salary.png
 
 
 <img width="771" height="127" alt="image" src="https://github.com/user-attachments/assets/99bd370c-0b5e-4046-8d89-3ce5fc24a98e" />
+
+
+
+
+
+
 
 
 
@@ -331,10 +341,20 @@ Screenshots/
 <img width="785" height="135" alt="image" src="https://github.com/user-attachments/assets/fa291c7b-a185-40b3-a563-b938cf86be93" />
 
 
+
+
+
+
 ├── Find_Missing_Designation.png
 
 
 <img width="849" height="320" alt="image" src="https://github.com/user-attachments/assets/b5f6a6a1-1c97-4931-9c24-f2397d67a0df" />
+
+
+
+
+
+
 
 
 ├── Update_Missing_Designation.png
@@ -342,9 +362,21 @@ Screenshots/
 <img width="836" height="195" alt="image" src="https://github.com/user-attachments/assets/0702f1ef-1e3e-4187-816c-31cb556dc3c0" />
 
 
+
+
+
+
+
+
 ├── Order_By_Department_Salary.png
 
 <img width="336" height="125" alt="image" src="https://github.com/user-attachments/assets/130c8d8c-8576-4c29-9ce8-f01ffd93e74c" />
+
+
+
+
+
+
 
 
 ├── Limit_First_5_Employees_2018.png
@@ -353,19 +385,48 @@ Screenshots/
 <img width="337" height="103" alt="image" src="https://github.com/user-attachments/assets/7df2a1b9-3f05-4a42-8240-5c9d01a0c8b4" />
 
 
+
+
+
+
+
+
+
+
 ├── Sum_Salary_Finance_Department.png
 
 
 <img width="313" height="142" alt="image" src="https://github.com/user-attachments/assets/30309af7-de87-4edd-9f35-6c3743bfffe8" />
+
+
+
+
+
+
+
 
 ├── Minimum_Age_Employees.png
 
 
 <img width="358" height="201" alt="image" src="https://github.com/user-attachments/assets/aa754a2e-6954-4a05-92d2-9a5c745ce723" />
 
+
+
+
+
+
+
+
 ├── Maximum_Salary_Each_Location.png
 
 <img width="423" height="213" alt="image" src="https://github.com/user-attachments/assets/05f476d0-82b1-46b5-b008-91b55d02bb6e" />
+
+
+
+
+
+
+
 
 
 
@@ -375,10 +436,23 @@ Screenshots/
 <img width="239" height="117" alt="image" src="https://github.com/user-attachments/assets/d55492e5-76b3-4991-87bb-8bbb5615e1de" />
 
 
+
+
+
+
+
+
+
 ├── Departments_Less_Than_3_Employees.png
 
 
 <img width="475" height="370" alt="image" src="https://github.com/user-attachments/assets/5f8c8d2c-066a-4143-926e-73135e06533e" />
+
+
+
+
+
+
 
 
 ├── Locations_Female_Average_Age_Below_30.png
@@ -387,10 +461,23 @@ Screenshots/
 <img width="470" height="324" alt="image" src="https://github.com/user-attachments/assets/50741268-56bb-4035-b318-331a642901c5" />
 
 
+
+
+
+
+
+
 ├── Inner_Join_Employees_Departments.png
 
 
 <img width="226" height="369" alt="image" src="https://github.com/user-attachments/assets/69592b85-18c3-47a0-873d-d96cbb240e78" />
+
+
+
+
+
+
+
 
 ├── Left_Join_Departments_Employee_Count.png
 
@@ -398,10 +485,25 @@ Screenshots/
 ![Uploading image.png…]()
 
 
+
+
+
+
+
+
+
+
 └── Right_Join_Locations_Employees.png
 
 
 ![Uploading image.png…]()
+
+
+
+
+
+
+
 
 
 # Repository Structure
