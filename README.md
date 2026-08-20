@@ -311,7 +311,6 @@ All assignment screenshots are stored separately in the `Screenshots` folder.
 
 The folder contains screenshots demonstrating the execution and results of each SQL task.
 
-```text
 Screenshots/
 │
 ├── Distinct_Salaries.png
@@ -404,9 +403,6 @@ Screenshots/
 
 ![Uploading image.png…]()
 
-```
-
----
 
 # Repository Structure
 
