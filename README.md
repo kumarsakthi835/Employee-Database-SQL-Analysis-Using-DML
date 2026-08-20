@@ -373,8 +373,9 @@ Update_Missing_Designation
 
 
 
-├── Order_By_Department_Salary
+Order_By_Department_Salary
 
+<img width="849" height="320" alt="image" src="https://github.com/user-attachments/assets/e2377bcb-ac5b-41d0-98f5-e79e5663bd34" />
 
 
 
@@ -387,6 +388,7 @@ Update_Missing_Designation
 
 Limit_First_5_Employees_2018
 
+<img width="836" height="195" alt="image" src="https://github.com/user-attachments/assets/23345d07-c5b6-4e88-973a-3a526854434d" />
 
 
 
@@ -399,6 +401,7 @@ Limit_First_5_Employees_2018
 
 Sum_Salary_Finance_Department
 
+<img width="336" height="125" alt="image" src="https://github.com/user-attachments/assets/eb7fec0e-22af-4fc9-8ab2-9d133c9d55d2" />
 
 
 
@@ -413,6 +416,7 @@ Sum_Salary_Finance_Department
 Minimum_Age_Employees
 
 
+<img width="337" height="103" alt="image" src="https://github.com/user-attachments/assets/6716d5b3-d7f1-4a3e-b390-75c004a98c13" />
 
 
 
@@ -427,6 +431,8 @@ Minimum_Age_Employees
 Maximum_Salary_Each_Location
 
 
+<img width="313" height="142" alt="image" src="https://github.com/user-attachments/assets/8fd95a0d-f803-407b-9d45-21357b00fc96" />
+
 
 
 
@@ -438,6 +444,7 @@ Average_Salary_Analyst_Designations
 
 
 
+<img width="358" height="201" alt="image" src="https://github.com/user-attachments/assets/00ff6662-e0ce-4ddb-b610-8086254310ac" />
 
 
 
@@ -449,6 +456,7 @@ Average_Salary_Analyst_Designations
 
 Departments_Less_Than_3_Employees
 
+<img width="423" height="213" alt="image" src="https://github.com/user-attachments/assets/5e273f20-417d-4ba1-9540-038b803f7651" />
 
 
 
@@ -460,6 +468,7 @@ Departments_Less_Than_3_Employees
 Locations_Female_Average_Age_Below_30
 
 
+<img width="239" height="117" alt="image" src="https://github.com/user-attachments/assets/c1c59833-8c01-41da-9176-de4c967f7989" />
 
 
 
@@ -474,6 +483,7 @@ Locations_Female_Average_Age_Below_30
 Inner_Join_Employees_Departments
 
 
+<img width="475" height="370" alt="image" src="https://github.com/user-attachments/assets/89842456-68ea-46d0-b892-3b931941ada7" />
 
 
 
@@ -487,6 +497,7 @@ Inner_Join_Employees_Departments
 Left_Join_Departments_Employee_Count
 
 
+<img width="470" height="324" alt="image" src="https://github.com/user-attachments/assets/4816db32-9a3a-4364-aedb-96e42f550639" />
 
 
 
@@ -495,6 +506,7 @@ Left_Join_Departments_Employee_Count
 
 Right_Join_Locations_Employees
 
+<img width="226" height="369" alt="image" src="https://github.com/user-attachments/assets/3900c766-e7db-4be6-8c4a-bb2bc16172f4" />
 
 
 
