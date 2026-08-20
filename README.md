@@ -315,7 +315,9 @@ Screenshots
 
 
 Distinct_Salaries
-<img width="881" height="182" alt="image" src="https://github.com/user-attachments/assets/5fa4e93f-994b-4106-8afa-9e99414feed2" />
+
+<img width="324" height="273" alt="image" src="https://github.com/user-attachments/assets/36a3912b-d32f-4c69-a70c-6a4013348d17" />
+
 
 
 
@@ -323,7 +325,9 @@ Distinct_Salaries
 
 
 Alias_AS_Age_Salary
-<img width="771" height="127" alt="image" src="https://github.com/user-attachments/assets/99bd370c-0b5e-4046-8d89-3ce5fc24a98e" />
+
+<img width="345" height="371" alt="image" src="https://github.com/user-attachments/assets/da5ac8b6-0d0e-4d1c-9216-285e09e21699" />
+
 
 
 
